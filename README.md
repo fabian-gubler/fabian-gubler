@@ -3,4 +3,4 @@ I am a computer science student interested in machine learning and open-source �
 
 - 🔭 I’m currently exploring on MLOps, NixOS, Machine Learning Models and Cloud Technologies.
 - 🎶 I enjoy creating electronic music an playing the Piano
-- 💬 Check out my system dotfiles here [repo](https://github.com/fabian-gubler/.dotfiles)
+- 💬 Check out my [dotfiles](https://github.com/fabian-gubler/.dotfiles) and [neovim configuration](https://github.com/fabian-gubler/neovim-config)
