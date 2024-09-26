@@ -3,7 +3,7 @@
 I am a **DevOps and Software Engineer** interested in **cloud infrastructure** ☁️, **automation** 🤖, and **building scalable systems** 🔧.
 
 I'm currently working on:
-- **Freelancing** — seeking new opportunities, excited to collaborate, grow entrepreneurially, and accelerate my learning.
+- **Freelancing, DevOps & Cloud** — seeking new opportunities, excited to collaborate, grow entrepreneurially, and accelerate my learning.
 
 ### A bit about me:
 - 🚀 **Tech Stack**: Microsoft Azure, Docker, Kubernetes, Ansible and Terraform for cloud solutions and automation.
