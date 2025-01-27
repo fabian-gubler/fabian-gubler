@@ -1,7 +1,5 @@
 ### Hi there! 👋 I'm Fabian
 
-Entrepreneur, Developer and Autodidact.
-
 I am a **Solutions and Software Engineer** interested in **AI & automation** 🤖, **cloud infrastructure** ☁️, *and **building scalable systems in the cloud** 🔧.
 
 I'm currently working on:
