@@ -1,11 +1,14 @@
 ### Hi there! 👋 I'm Fabian
 
-I am a **DevOps and Software Engineer** interested in **cloud infrastructure** ☁️, **automation** 🤖, and **building scalable systems** 🔧.
+Entrepreneur, Developer and Autodidact.
+
+I am a **Solutions and Software Engineer** interested in **AI & automation** 🤖, **cloud infrastructure** ☁️, *and **building scalable systems in the cloud** 🔧.
 
 I'm currently working on:
-- **Freelancing, DevOps & Cloud** — seeking new opportunities, excited to collaborate, grow entrepreneurially, and accelerate my learning.
+- **COO @ Startino & Freelancing** — excited to collaborate, grow entrepreneurially, and accelerate my learning.
 
 ### A bit about me:
+- 🤖 **AI Stack**: Langchain, OpenAI APIs, Hugging Face, LLMs, Chatbots
 - 🚀 **Tech Stack**: Microsoft Azure, Docker, Kubernetes, Ansible and Terraform for cloud solutions and automation.
 - 💻 **Coding**: Python, Golang, and Java, with a focus on backend development.
 - 🌍 **Remote Work Enthusiast**: Experience working from different locations, with a passion for flexibility and new challenges.
