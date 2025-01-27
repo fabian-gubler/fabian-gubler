@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Fabian
 
-I am a **Solutions and Software Engineer** interested in **AI & automation** 🤖, **cloud infrastructure** ☁️, *and **building scalable systems in the cloud** 🔧.
+I am a **Solutions** and **Software Engineer** interested in **AI & automation** 🤖, **cloud infrastructure** ☁️, *and **building scalable systems in the cloud** 🔧.
 
 I'm currently working on:
 - **COO @ Startino & Freelancing** — excited to collaborate, grow entrepreneurially, and accelerate my learning.
