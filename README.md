@@ -27,4 +27,4 @@ I'm currently working on:
    *Tech: PyTorch, Python, Azure*
 
 ### Let’s Connect!
-Want to chat DevOps, cloud, or cool tech? [LinkedIn](https://www.linkedin.com/in/fabian-gubler) • [Freelancermap](https://www.freelancermap.ch/profil/fabian-gubler) • [Resume](https://raw.githubusercontent.com/fabian-gubler/resume/main/Lebenslauf_FabianGubler.pdf)
+Want to chat AI, cloud, or cool tech? [LinkedIn](https://www.linkedin.com/in/fabian-gubler) • [Freelancermap](https://www.freelancermap.ch/profil/fabian-gubler) • [Resume](https://raw.githubusercontent.com/fabian-gubler/resume/main/Lebenslauf_FabianGubler.pdf)
