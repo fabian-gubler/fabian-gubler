@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Fabian
 
-I am a **Solutions** and **Software Engineer** interested in **AI & automation** 🤖, **IT infrastructure** 🔧, and **building scalable systems in the Cloud** ☁️.
+I am a **Solutions** and **Software Engineer** interested in **AI Engineering** 🤖, **IT infrastructure** 🔧, and **Scalable Systems in the Cloud** ☁️.
 
 ### A bit about me:
 - 💻 **Coding**: Python, Golang, and Java, with a focus on backend development.
