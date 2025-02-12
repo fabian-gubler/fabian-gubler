@@ -14,7 +14,7 @@ I am a **Solutions** and **Software Engineer** interested in **AI & automation**
 - ☕ Exploring **unique coffee spots**
 - 🧳 Minimalism and **traveling light**
 
-### Featured Projects:
+### Featured Open Source Projects:
 1. **[fabian-gubler/cellster](https://github.com/fabian-gubler/cellster)** — Local-first spreadsheet for offline collaboration.  
    *Tech: CRDTs, Python, Algorithms*
 
