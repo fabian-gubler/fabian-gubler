@@ -6,7 +6,7 @@ I am a **Solutions** and **Software Engineer** interested in **AI & automation**
 - 💻 **Coding**: Python, Golang, and Java, with a focus on backend development.
 - ⚒️ **Software Engineering**:: Microservices, RESTFul APIs, SQL & NoSQL, Figma (UX/UI Design) Agile (Scrum, Kanban)
 - 🚀 **Tech Stack**: Microsoft Azure, Docker, Kubernetes, Ansible and Terraform for cloud solutions and automation.
-- 🤖 **AI Stack**: Langchain, OpenAI APIs, Hugging Face, LLMs, Chatbots
+- 🤖 **AI Stack**: Langchain, OpenAI APIs, Hugging Face, Rapid Prototyping (Cursor, v0, Bolt)
 - 🌍 **Remote Work Enthusiast**: Experience working from different locations, with a passion for flexibility and new challenges.
 
 ### Interests:
