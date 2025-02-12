@@ -1,14 +1,12 @@
 ### Hi there! 👋 I'm Fabian
 
-I am a **Solutions** and **Software Engineer** interested in **AI & automation** 🤖, **cloud infrastructure** ☁️, *and **building scalable systems in the cloud** 🔧.
-
-I'm currently working on:
-- **COO @ Startino & Freelancing** — excited to collaborate, grow entrepreneurially, and accelerate my learning.
+I am a **Solutions** and **Software Engineer** interested in **AI & automation** 🤖, **IT infrastructure** 🔧, and **building scalable systems in the Cloud** ☁️.
 
 ### A bit about me:
-- 🤖 **AI Stack**: Langchain, OpenAI APIs, Hugging Face, LLMs, Chatbots
-- 🚀 **Tech Stack**: Microsoft Azure, Docker, Kubernetes, Ansible and Terraform for cloud solutions and automation.
 - 💻 **Coding**: Python, Golang, and Java, with a focus on backend development.
+- ⚒️ **Software Engineering**:: Microservices, RESTFul APIs, SQL & NoSQL, Figma (UX/UI Design) Agile (Scrum, Kanban)
+- 🚀 **Tech Stack**: Microsoft Azure, Docker, Kubernetes, Ansible and Terraform for cloud solutions and automation.
+- 🤖 **AI Stack**: Langchain, OpenAI APIs, Hugging Face, LLMs, Chatbots
 - 🌍 **Remote Work Enthusiast**: Experience working from different locations, with a passion for flexibility and new challenges.
 
 ### Interests:
