@@ -25,4 +25,4 @@
    *Tech: PyTorch, Python, Azure*
 
 ### Let’s Connect!
-Want to chat AI, cloud, or cool tech? [LinkedIn](https://www.linkedin.com/in/fabian-gubler) • [Freelancermap](https://www.freelancermap.ch/profil/fabian-gubler)
+Want to chat Software, Development or Cool Tech? [LinkedIn](https://www.linkedin.com/in/fabian-gubler) • [Freelancermap](https://www.freelancermap.ch/profil/fabian-gubler)
