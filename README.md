@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Fabian
 
-**Solutions** and **Software Engineer** interested in **Full Stack Engineering** 🤖, **IT infrastructure** 🔧, and **Serverless Systems in the Cloud** ☁️
+**Solutions Engineer** interested in **Full Stack Engineering** 🤖, **IT infrastructure** 🔧, and **Serverless Systems in the Cloud** ☁️
 
 ---
 
