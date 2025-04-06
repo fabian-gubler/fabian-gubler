@@ -5,7 +5,7 @@
 ### A bit about me:
 - 💻 **Programming Languages**: Typescript, Python, Java and Golang
 - 🧑‍💻 **Frontend**: Next.js, Tailwind CSS, React Server Components, Supabase, Vercel
-- ⚒️ **Software Engineering**:: Microservices, RESTFul APIs, SQL & NoSQL, Figma (UX/UI Design), Agile (Scrum, Kanban)
+- ⚒️ **Software Engineering**: Microservices, RESTFul APIs, SQL & NoSQL, Figma (UX/UI Design), Agile (Scrum, Kanban)
 - 🚀 **Infrastructure**: Microsoft Azure, CI/CD, Docker, Kubernetes, Ansible and Terraform
 - 🤖 **AI Stack**: Langchain, OpenAI APIs, Hugging Face, Rapid Prototyping (Cursor, v0, Bolt)
 - 🌍 **Remote Work Enthusiast**: Experience working from different locations, with a passion for flexibility and new challenges.
