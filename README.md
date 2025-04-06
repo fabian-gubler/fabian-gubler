@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Fabian
 
-**Solutions** and **Software Engineer** interested in **AI Engineering** 🤖, **IT infrastructure** 🔧, and **Scalable Systems in the Cloud** ☁️
+**Solutions** and **Software Engineer** interested in **Full Stack Engineering** 🤖, **IT infrastructure** 🔧, and **Serverless Systems in the Cloud** ☁️
 
 ### A bit about me:
 - 💻 **Programming Languages**: Typescript, Python, Java and Golang
