@@ -3,9 +3,10 @@
 **Solutions** and **Software Engineer** interested in **AI Engineering** 🤖, **IT infrastructure** 🔧, and **Scalable Systems in the Cloud** ☁️
 
 ### A bit about me:
-- 💻 **Coding**: Python, Golang, and Java, with a focus on backend development.
+- 💻 **Programming Languages**: Typescript, Python, Java and Golang
+- 🧑‍💻 **Frontend**: Next.js, Tailwind CSS, React Server Components, Supabase, Vercel
 - ⚒️ **Software Engineering**:: Microservices, RESTFul APIs, SQL & NoSQL, Figma (UX/UI Design), Agile (Scrum, Kanban)
-- 🚀 **Tech Stack**: Microsoft Azure, CI/CD, Docker, Kubernetes, SQL & NoSQL, Ansible and Terraform
+- 🚀 **Infrastructure**: Microsoft Azure, CI/CD, Docker, Kubernetes, Ansible and Terraform
 - 🤖 **AI Stack**: Langchain, OpenAI APIs, Hugging Face, Rapid Prototyping (Cursor, v0, Bolt)
 - 🌍 **Remote Work Enthusiast**: Experience working from different locations, with a passion for flexibility and new challenges.
 
