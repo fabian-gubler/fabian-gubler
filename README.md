@@ -2,6 +2,13 @@
 
 **Solutions** and **Software Engineer** interested in **Full Stack Engineering** 🤖, **IT infrastructure** 🔧, and **Serverless Systems in the Cloud** ☁️
 
+---
+
+**Co-Founder of [Equitika](https://www.linkedin.com/company/equitika)**
+
+- 🌟 **What we do?** We empower young minds to master money skills and unlock financial independence.
+- 📚 **How we do it?** Creating the "Duolingo for Financial Education". No boring textbooks. 
+
 ### A bit about me:
 - 💻 **Programming Languages**: Typescript, Python, Java and Golang
 - 🧑‍💻 **Frontend**: Next.js, Tailwind CSS, React Server Components, Supabase, Vercel
