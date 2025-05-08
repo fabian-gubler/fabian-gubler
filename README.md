@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Fabian
 
-**Sometimes Techie, Sometimes Business Guy** interested in **Full Stack Engineering** 🤖, **User-centric Design** 👋, and **Serverless Systems in the Cloud** ☁️
+**Techie (and sometimes Business Guy)** who loves Full Stack Engineering 🤖, User-Centric Design 👋, and all things Serverless in the Cloud ☁️
 
 ---
 
